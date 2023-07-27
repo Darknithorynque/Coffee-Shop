@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/coffe-shop/static/css/main.2b1bf1ee.css",
-    "main.js": "/coffe-shop/static/js/main.e88c5965.js",
-    "static/media/filtre.jpeg": "/coffe-shop/static/media/filtre.d53c93130cdd62c5a1c3.jpeg",
-    "static/media/mocha.jpg": "/coffe-shop/static/media/mocha.4efa2e5ff2b3b0ad5032.jpg",
-    "static/media/caramel.jpg": "/coffe-shop/static/media/caramel.47c4911154e9aeaecdb3.jpg",
-    "static/media/latte.jpeg": "/coffe-shop/static/media/latte.cbe2938c84a9479057ab.jpeg",
-    "static/media/americano.jpg": "/coffe-shop/static/media/americano.aaf6e94154d9859bd0c9.jpg",
-    "static/media/cappuchino.jpeg": "/coffe-shop/static/media/cappuchino.8573e07500d6d4e396d9.jpeg",
-    "static/media/expresso.jpeg": "/coffe-shop/static/media/expresso.8f7e96949f2e1e2b502b.jpeg",
-    "index.html": "/coffe-shop/index.html",
-    "main.2b1bf1ee.css.map": "/coffe-shop/static/css/main.2b1bf1ee.css.map",
-    "main.e88c5965.js.map": "/coffe-shop/static/js/main.e88c5965.js.map"
+    "main.css": "/Coffe-Shop/static/css/main.2b1bf1ee.css",
+    "main.js": "/Coffe-Shop/static/js/main.6c6f2b7b.js",
+    "static/media/filtre.jpeg": "/Coffe-Shop/static/media/filtre.d53c93130cdd62c5a1c3.jpeg",
+    "static/media/mocha.jpg": "/Coffe-Shop/static/media/mocha.4efa2e5ff2b3b0ad5032.jpg",
+    "static/media/caramel.jpg": "/Coffe-Shop/static/media/caramel.47c4911154e9aeaecdb3.jpg",
+    "static/media/latte.jpeg": "/Coffe-Shop/static/media/latte.cbe2938c84a9479057ab.jpeg",
+    "static/media/americano.jpg": "/Coffe-Shop/static/media/americano.aaf6e94154d9859bd0c9.jpg",
+    "static/media/cappuchino.jpeg": "/Coffe-Shop/static/media/cappuchino.8573e07500d6d4e396d9.jpeg",
+    "static/media/expresso.jpeg": "/Coffe-Shop/static/media/expresso.8f7e96949f2e1e2b502b.jpeg",
+    "index.html": "/Coffe-Shop/index.html",
+    "main.2b1bf1ee.css.map": "/Coffe-Shop/static/css/main.2b1bf1ee.css.map",
+    "main.6c6f2b7b.js.map": "/Coffe-Shop/static/js/main.6c6f2b7b.js.map"
   },
   "entrypoints": [
     "static/css/main.2b1bf1ee.css",
-    "static/js/main.e88c5965.js"
+    "static/js/main.6c6f2b7b.js"
   ]
 }
